@@ -1,0 +1,25 @@
+{
+  "name": "apollo-server-mocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "apollo-server": "^2.6.7",
+    "graphql": "^14.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narita1980/apollo-server-mocks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narita1980/apollo-server-mocks/issues"
+  },
+  "homepage": "https://github.com/narita1980/apollo-server-mocks#readme"
+}
